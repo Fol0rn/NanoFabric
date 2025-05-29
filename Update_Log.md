@@ -1,17 +1,19 @@
 # Update 0.1
 -This is the first update for **NANOFABRIC** and none of these mods are mine so **Credits to:**  
+**Fabric API** by sfPlayer1 and **modmuss50**  
 •**Sodium** by CaffeineMC, IMS and **jellysquid3**  
 ‎ ‎ ‎ ‎ ‎ ‎ ^-**Sodium Extras** by **FlashyReese**  
 ‎ ‎ ‎ ‎ ‎^--**Reese's Sodium Options** by **FlashyReese**  
 •**Lithium** by CaffeineMC, 2No2Name and **jellysquid3**  
 •**Chunky** by **pop4959**  
 •**ImmedtiatelyFast** by **RaphiMC**  
-•**ThreadTweak** by devin and **getchoo**
+•**ThreadTweak** by devin and **getchoo**  
+•**Cloth Config API** by **shedaniel**  
+‎ ‎ ‎ ‎ ‎ ‎ ^-**More Culling** by 1Foxy2 and **FX**  
 •**Entity Culling** by Pelotrip, vicisacat and **tr7zw**  
-•**More Culling** by 1Foxy2 and **FX**
 •**CullLeaves** by **Motschen**  
 •**Clumps** by **jaredlll08**  
-•**Cull Particles MultiLoader** by **commander**
+•**Cull Particles MultiLoader** by **commander**  
 •**Async** by FurryMileon and **AlalotDev**  
 •**Krypton** by **astei**  
 •**ferritecore** by **malte0811**  
@@ -25,3 +27,4 @@
 •**Almanac** by **frikinjay**  
 ‎ ‎ ‎ ‎ ‎ ‎ ^-**Let Me Despawn** by **frikinjay**  
 •**Super Fast Math** by **justElias**  
+•**Text Pleaceholder API** by **Patbox**
