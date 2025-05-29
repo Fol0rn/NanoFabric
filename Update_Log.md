@@ -6,6 +6,7 @@
 •**Lithium** by CaffeineMC, 2No2Name and **jellysquid3**  
 •**Chunky** by **pop4959**  
 •**Entity Culling** by Pelotrip, vicisacat and **tr7zw**  
+•**More Culling** by 1Foxy2 and **FX**
 •**Clumps** by **jaredlll08**
 •**Async** by FurryMileon and **AlalotDev**  
-•**Krypton** by **astei**
+•**Krypton** by **astei**  
