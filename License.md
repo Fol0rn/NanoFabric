@@ -11,8 +11,8 @@
 ⚠️ But please **Do Not Copy** everything in the Modpack, add changes to the name and branding as I do not want to report you but I will if I have to.  
 
 ❗**Mod Ownership**:  
-•I do not **OWN** any mods in the ModPack
-•And all mods belongs to their original creators
+•I do not **OWN** any mods in the ModPack  
+•And all mods belongs to their original creators  
 •And I only created the pack to help others to get better **FPS** and **Performance**.  
 
 📨**Contact**:  
