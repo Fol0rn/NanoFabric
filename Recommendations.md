@@ -7,6 +7,7 @@
 - ***For High End PC Users***
 1. ***Complementary Shaders - Reimagined***, adds massive amounts of detail like glowing effects on blocks and entities and adding advanced lighting detail.
 2. ***BSL Shaders***, same as **Complementary Shaders - Reimagined** but with less details but still very aesthetic to look at.
+3. ***InterationT***, amazing shader with good details, amazing looks and mid performance. This is not recommeneded for low end pc as this will kill your FPS.
 
 # ResourcePack recommendations
 - ***For Better Animations***  
