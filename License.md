@@ -1,11 +1,11 @@
-# NanoFabric License
+# NanoFabric/NecroForge License
 
  ✔ **What your allowed**:  
 ✅Remix and credit NanoFabric if wanting to remix it.  
 
 🔒**Permission needed**:  
-•You may not use the name, logo nor profile design of **NanoFabric** without permission.  
-•If you want to release a ModPack based on **NanoFabric** you must:  
+•You may not use the name, logo nor profile design of **NanoFabric** nor **NecroForge** without permission.  
+•If you want to release a ModPack based on **NanoFabric** or **NecroForge** you must:  
 ‎ ‎ ‎ ‎ •-Change a bit the name, logo and profile design (e.g., “NanoFabric+”, “NanoFabric Reloaded”, etc.). But you still need to ask permission for\
 ‎ ‎ ‎ ‎ NanoFabric in the name, logo and design.  
 
