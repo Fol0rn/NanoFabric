@@ -59,7 +59,7 @@ Violations of this section may result in enforcement action as described in **Se
 
 ## 7. Enforcement
 
-**Kaizen** reserves the right to take action, including DMCA takedown requests or platform reporting against any party found to be in violation of this license. FPS Boost will make reasonable efforts to contact the infringing party before escalating, but is not obligated to do so.
+**Kaizen** reserves the right to take action, including DMCA takedown requests or platform reporting against any party found to be in violation of this license. Kaizen will make reasonable efforts to contact the infringing party before escalating, but is not obligated to do so.
 
 ---
 
