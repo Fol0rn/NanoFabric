@@ -5,7 +5,7 @@ This is an inspiration from **Simply Optimized**, but because I didn't have know
 
 We also focus giving our users for this modpack the best experience. We give user support, recommended settings, answering questions about the modpack, and give the specs of the people who test it to you for transparency.
 
-## Like the mod and want to support it?
+## Like the modpack and want to support it?
 Just simply give NanoFabric a rating at https://moddex.gg/modpack/nanofabric We don't want the money of our users, as we didn't do much but configure and test it for you kind users! Instead donate the money to the people who developed the mods in NanoFabric.
 
 But if you really want to support NanoFabric, just play on it and enjoy the amazing performance! That would make the team and me happy from you enjoying our modpack, made for you!
