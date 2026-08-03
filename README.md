@@ -6,3 +6,6 @@ https://github.com/Fol0rn/NanoFabric/blob/main/About%20NanoFabric.md
 
 **Recommendation for shaders and recoursepacks**\
 https://github.com/Fol0rn/NanoFabric/blob/main/Recommendations.md
+
+**Should I use Vulkan for 26.2?**
+https://github.com/Fol0rn/NanoFabric/blob/main/VulkanvsOpen.md
