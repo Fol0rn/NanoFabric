@@ -56,7 +56,7 @@ Another problem with OpenGL is that there are limits to what you can do with it.
 **The Downside for Vulkan Explanation**\
 Vulkan is still a new API, so it isn't as polished as OpenGL is, so some problems may occur.
 But this one is the biggest problem for you with Vulkan, if your computer parts was released before 2016, then your system doesn't support Vulkan and not even let you play Minecraft when using the Vulkan API.
-Plus because it is new for mod/plugin developers, they don't have the knowledge or how it fully works like they did with OpenGL, making them go back to square one by learning how Vulkan works and communicates."\
+Plus because it is new for mod/plugin developers, they don't have the knowledge or how it fully works like they did with OpenGL, making them go back to square one by learning how Vulkan works and "communicates."\
 **Below is a photo for comparison of OpenGL and Vulkan FPS.**
 
 OpenGL
