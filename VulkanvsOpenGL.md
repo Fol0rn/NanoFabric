@@ -64,3 +64,15 @@ OpenGL
 Vulkan
 ![image alt](https://github.com/Fol0rn/NanoFabric/blob/e41d6d6847ad14a6173e74b431e38cea8534766f/VulkanPhoto.png)
 testing was done with NanoFabric 1.0.7
+
+This images show the FPS count, it may seem confusing for new users but its super easy when you understand it.\
+The top is the average FPS. The p50, p98, p99.5 are the actual reasons why it feels like its stuttering even though you have high average FPS. The p50 is not very important, but the p98 and p99.5 are the main focus to keep this a simple explanation.
+
+If you have, lets say in this case... 250 FPS, the p98 and p99.5 has to be close in FPS to the average FPS, if there's a smaller gap between the p98, p99.5, and the average FPS, the better! The bigger the gap, the worse the lag may feel.\
+A simple example if still confused is lets say you have a professional runner running, then he stops for a split second and then goes back to running and so on, all though the average speed is still quick, the runner is still stopping for no reason for a split second before running again making him go choppy and inconsistent, but if the gap in FPS is small, its like if the runner was still running and not stopping randomly. 
+
+## Should I switch API?
+
+I would recommend by saying **No**, all though NanoFabric versions are Vulkan, they are there for performance boost. **IF** you care about stability and not experiment that potential risk with Vulkan to your system, I would say OpenGL by miles. They have more mods, its more stable, and more compatible to your system if older.
+
+But if you want to experiment, get that "free" FPS boost, don't care about the potential mods that aren't compatible... then go ahead for it. It is ready with just a few steps, and it does help for some systems by a lot! And plus, in the future Vulkan will be more stable  and mods will move to Vulkan too when developers fully understand how to work with it.
