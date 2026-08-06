@@ -10,4 +10,4 @@ https://github.com/Fol0rn/NanoFabric/blob/main/Recommendations.md
 
 Documents\
 **Should I use Vulkan for 26.2?**
-https://github.com/Fol0rn/NanoFabric/blob/main/VulkanvsOpen.md
+https://github.com/Fol0rn/NanoFabric/blob/main/VulkanvsOpenGL.md
